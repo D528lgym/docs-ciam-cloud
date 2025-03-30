@@ -5,7 +5,7 @@ WSO2 Private CIAM Cloud can be used to fulfill the identity and access managemen
 - Define the organization structure.
 - Delegate administration capabilities to users in suborganization.
 - Manage users in individual organizations.
-- Allow users from each organization to log in to shared applications using each organization's IdP.
+- Allow users from each organization to log in to shared applications using each organization's akim
 
 See the following topics for instructions:
 
